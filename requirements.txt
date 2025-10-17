@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests
+pydantic
+openai
+streamlit
+streamlit-agraph
+openai==0.28.0
